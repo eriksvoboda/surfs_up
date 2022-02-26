@@ -12,6 +12,8 @@ Using the descriptive statistics of both dataframes we can identify differences 
   - June has a higher minimum temperature than December by 8 degrees
   - The maximum temperature between June and December only differs by 2 degrees, and both months have similar standard deviations June (3.25) December (3.74)
 
+![](/Resournces/june_stats.png)![](/Resources/dec_stats.png)
+
 ## Summary
 
 Overall the weather in Oahu is consistent year-round. If more data was collected in December it's possible that the data between June and December would be even more similar. Or we could see that the months are more different than currently shown. We could perform the same analysis that we did for temmperature on precipitation to learn not only how warm the weather is but how fair the conditions are. As months with greater precipitation likely have lower surfing which would mean less business for the shop. Addditionally we could look at precipitation and temperature data for the rest of the year and plot temperature and precipitation in their own bar charts to visurally show average temperature and precipitation for each month of the year. 
