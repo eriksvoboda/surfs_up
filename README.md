@@ -12,7 +12,7 @@ Using the descriptive statistics of both dataframes we can identify differences 
   - June has a higher minimum temperature than December by 8 degrees
   - The maximum temperature between June and December only differs by 2 degrees, and both months have similar standard deviations June (3.25) December (3.74)
 
-![](/Resournces/june_stats.png)![](/Resources/dec_stats.png)
+![](/Resournces/june_stats.png) ![](/Resources/dec_stats.png)
 
 ## Summary
 
